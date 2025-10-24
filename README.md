@@ -1,2 +1,2 @@
 # IT107_CaseStudy
-this for team collaboration
+Documentation and Collaboration will be uploaded here
